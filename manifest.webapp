@@ -1,0 +1,22 @@
+{
+    "name": "USER ACTIVITY-RESEARCH WIDGET",
+    "description": "To know when a user visits a dashboard and for how long",
+    "version": "1.0",
+    "appType": "DASHBOARD_WIDGET",
+    "launch_path": "./index.html",
+    "default_locale": "en",
+    "activities": {
+        "dhis": {
+            "href": "*"
+        }
+    },
+    "developer": {
+        "name": "Mohammad Julhas Sujan",
+        "email": "julhaspustcse@gmail.com",
+        "url": "http://dhis2.org/",
+        "company": "UiO"
+    },
+    "icons": {
+        "48": "./user-activity-research.png"
+    }
+}

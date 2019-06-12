@@ -1,0 +1,29 @@
+
+.mainArea {
+    margin-top: 10px;
+    padding: 0px 15px;
+}
+.panelWhite {
+    background: hsl(210, 7%, 89%) none repeat scroll 0 0;
+    border-radius: 3px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    white-space: normal;
+    margin-bottom: 7px;
+    padding-bottom: 23px;
+}
+.panelHeading {
+    border-bottom: 1px solid hsla(0, 0%, 0%, 0);
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    padding: 0px 5px;
+}
+
+.panelBody {
+    background: hsl(0, 0%, 100%) none repeat scroll 0 0;
+    margin: 0 7px 14px 5px;
+    min-height: 500px;
+    padding-bottom: 37px;
+}
