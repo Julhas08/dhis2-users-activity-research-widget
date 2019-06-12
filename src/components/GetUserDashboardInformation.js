@@ -6,13 +6,11 @@ import axios from 'axios';
 import classes from './GetUserDashboardInformation.css';
 
 var DataTable = require('react-data-components').DataTable;
-const baseURL = "https://bd-eregistry.dhis2.org/dhis/";
-//const baseURL = "../../../";
+const baseURL = "../../../";
 const fetchOptions = {
         headers: {
           Accept: 'application/json',
-          'Content-Type': 'application/json',
-          Authorization: "Basic " + btoa("julhan:Dhaka123!")         
+          'Content-Type': 'application/json', 
 
         }
       };
