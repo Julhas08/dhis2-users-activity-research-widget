@@ -35,7 +35,7 @@
     "webpack-dev-server": "^3.3.1"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^",
     "babel-polyfill": "^6.26.0",
     "faker": "^4.1.0",
     "react": "^16.8.6",
